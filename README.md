@@ -1,1 +1,1 @@
-# billionaire-statistics
+# Billionaire statistics
